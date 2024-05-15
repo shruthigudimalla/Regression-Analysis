@@ -11,18 +11,18 @@ This repository contains solutions for exercises related to regression analysis.
 
 ## Tasks
 
-### Exercise-1 (4 Marks)
+### Exercise-1
 What linear regression equation best predicts statistics performance for the students assuming we have the following data? If a student made an 80 on the test, what grade would we expect him to make in statistics? How well does the regression equation fit the data?
 
 **Note:** The dataset is available in student_score.csv file.
 
-### Exercise-2 (1 Mark)
+### Exercise-2 
 Plot the linear regression line for the data given in Exercise-1 using the matplotlib library.
 
-### Exercise-3 (1 Mark)
+### Exercise-3 
 Measure the R-squared value, goodness-of-fit for Exercise-1 linear regression model.
 
-### Exercise-4 (4 Marks)
+### Exercise-4
 Consider the following data:
 
 Y: [16, 4, 1, 9, 1, 25, 16, 4, 0, 9, 25]
@@ -31,10 +31,10 @@ X: [-4, -2, 1, 3, -1, -5, 4, 2, 0, -3, 5]
 3.1) Visualize the scatter plot for the above data using the matplotlib library.
 3.2) Determine the type of regression model that fits the data.
 
-### Exercise-5 (9 Marks)
+### Exercise-5 
 Analyze the heart disease dataset by training and building a model with regression analysis. Test your model and discuss the result of your test with performance metrics. Separate the training set and testing data properly. Analyze the input data and explain which variables have more effects on the output. Modify your models by eliminating non-significant variables.
 
-### Exercise-6 (1 Mark)
+### Exercise-6 
 Download the Excel file "Sample-probability-distributions-graph.xlsx" of the sample distributions from the lecture notes. By visual observation and running the regression analysis, find out which probability distribution is linear. You can examine fitting the distribution data by using a linear regression model or by explaining the equation of each distribution.
 
 ## How to Run
